@@ -4,8 +4,8 @@ export default createStore({
   state: {
     cardList: [
       {
-        "name": "лох",
-        "value": "ЛОООООХ",
+        "name": "test name",
+        "value": "test value",
       },
       {
         "name": "foo2",
